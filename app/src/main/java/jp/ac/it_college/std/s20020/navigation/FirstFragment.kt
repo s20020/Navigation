@@ -41,6 +41,8 @@ class FirstFragment : Fragment() {
             navController.navigate(action3)
         }
 
+        println("taiga")
+
 
     }
 
